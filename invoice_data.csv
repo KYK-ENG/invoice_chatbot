@@ -1,21 +1,21 @@
-Invoice_ID,Company_Name,Vendor_Name,Type,Total_Amount,Currency,Issue_Date,Due_Date,Status,Approval_Required_By,Approval_Date,Approved_By,Payment_Date,PO_Number,Invoice_Description
-INV-1001-AP,Global Corp,Synergy Office Supplies,AP,1500,USD,01-11-2025,01-12-2025,Paid/Closed,N/A,20-11-2025,Mark Chen,01-12-2025,PO-550,Monthly supply order Q4
-INV-1002-AR,Acme Inc,Innovate Solutions,AR,850.75,EUR,15-10-2025,14-11-2025,Paid/Closed,N/A,10-11-2025,Sarah Lee,12-11-2025,N/A,October consulting fees
-INV-1003-AP,Global Corp,Data Secure LLC,AP,4500,USD,05-12-2025,04-01-2026,Pending Approval,Jane Doe,,,PO-600,Annual server license renewal,
-INV-1004-AP,Beta Systems,Fast Courier,AP,95.5,GBP,10-11-2025,10-12-2025,Approved,N/A,15-11-2025,Mark Chen,,PO-551,Emergency shipping cost
-INV-1005-AR,Acme Inc,Regional Distributors,AR,12300,USD,20-11-2025,20-12-2025,In Progress,John Smith,,,N/A,Q4 software implementation,
-INV-1006-AP,Global Corp,Utility Services,AP,340.25,USD,25-10-2025,24-11-2025,Overdue,N/A,01-11-2025,Jane Doe,,N/A,November office utilities
-INV-1007-AR,Acme Inc,Tech Repair Co.,AR,67.5,GBP,02-12-2025,01-01-2026,Pending Approval,Michael Kim,,,N/A,Printer maintenance charge,
-INV-1008-AP,Beta Systems,Marketing Agency,AP,8200,EUR,01-10-2025,31-10-2025,Paid/Closed,N/A,25-10-2025,Michael Kim,30-10-2025,PO-552,Digital advertising campaign
-INV-1009-AP,Global Corp,Software Tools,AP,110,USD,07-12-2025,06-01-2026,Pending Approval,Mark Chen,,,PO-601,New subscription license,
-INV-1010-AR,Acme Inc,New Client LLC,AR,500,USD,05-11-2025,05-12-2025,Disputed,N/A,,,N/A,Setup fee for new account,
-INV-1011-AP,Beta Systems,Maintenance Crew,AP,250,USD,15-11-2025,15-12-2025,Approved,N/A,20-11-2025,Sarah Lee,,PO-553,Monthly building maintenance
-INV-1012-AP,Global Corp,Travel Agents,AP,670.9,USD,01-12-2025,31-12-2025,Pending Approval,Jane Doe,,,N/A,Flight expense for Q4 meeting,
-INV-1013-AR,Acme Inc,Service Provider X,AR,999.99,EUR,01-09-2025,01-10-2025,Overdue,N/A,15-09-2025,John Smith,,N/A,Q3 retainer fee
-INV-1014-AP,Beta Systems,Training Academy,AP,1450,GBP,25-11-2025,25-12-2025,In Progress,Michael Kim,,,PO-554,Staff training workshop,
-INV-1015-AR,Global Corp,Web Design Inc,AR,750,USD,20-10-2025,19-11-2025,Paid/Closed,N/A,15-11-2025,Mark Chen,18-11-2025,N/A,Website update and hosting
-INV-1016-AP,Acme Inc,Cleaning Services,AP,120,USD,03-12-2025,02-01-2026,Pending Approval,Sarah Lee,,,N/A,Weekly office cleaning Q4,
-INV-1017-AP,Beta Systems,Coffee Supplies,AP,45.5,GBP,05-10-2025,04-11-2025,Overdue,N/A,10-10-2025,Jane Doe,,PO-555,October kitchen stock
-INV-1018-AR,Global Corp,Consulting Firm Z,AR,3200,USD,18-11-2025,18-12-2025,In Progress,Michael Kim,,,N/A,Mid-project milestone payment,
-INV-1019-AP,Acme Inc,Local Printer,AP,180,USD,22-11-2025,22-12-2025,Approved,N/A,28-11-2025,Mark Chen,,PO-602,Business card printing
-INV-1020-AR,Beta Systems,New Partner Co,AR,6500,EUR,04-12-2025,03-01-2026,Pending Approval,John Smith,,,N/A,Initial partnership fee,
+Invoice_ID,Company_Name,Vendor_Name,Type,Total_Amount,Currency,Issue_Date,Due_Date,Approval_Date,Payment_Date,Status,Approval_Required_By,Invoice_Description
+INV-1001-AP,Global Corp,Synergy Office Supplies,AP,1500.00,USD,2025-01-11,2025-01-12,2025-01-11,2025-01-12,Paid/Closed,Mark Chen,Office supplies for Q1
+INV-1002-AR,Acme Inc,Innovate Solutions,AR,850.75,EUR,,,,2025-01-15,Paid/Closed,,October consulting fees
+INV-1003-AP,Global Corp,Data Secure LLC,AP,4500.00,USD,2025-05-12,2025-06-01,,,Pending Approval,Jane Doe,Annual server maintenance
+INV-1004-AP,Beta Systems,Fast Courier,AP,95.50,GBP,2025-10-11,2025-10-12,2025-10-11,2025-10-12,Approved,Mark Chen,Urgent document shipping
+INV-1005-AR,Acme Inc,Regional Distributors,AR,12300.00,USD,,2025-02-28,,,In Progress,,Q4 product sales
+INV-1006-AP,Beta Systems,Apex Marketing,AP,10.00,USD,2025-09-01,2025-09-02,,,Pending Approval,Jane Doe,September ad spend
+INV-1007-AR,Acme Inc,Innovate Solutions,AR,57.50,GBP,2025-11-01,2025-11-30,,,In Progress,,Small software license fee
+INV-1008-AP,Global Corp,Green Power Co,AP,670.91,USD,2025-02-01,2025-03-01,2025-02-15,2025-02-28,Paid/Closed,Jane Doe,February electricity bill
+INV-1009-AP,Global Corp,Fast Courier,AP,110.00,USD,2025-09-15,2025-10-15,,,Pending Approval,Mark Chen,Courier services
+INV-1010-AR,Beta Systems,Tech Repair Hub,AR,349.99,USD,2025-03-10,2025-04-10,,,Paid/Closed,,Laptop screen replacement
+INV-1011-AP,Acme Inc,Regional Distributors,AP,8900.00,EUR,2025-07-01,2025-08-01,2025-07-05,,Overdue,Jane Doe,Bulk order payment
+INV-1012-AP,Beta Systems,Apex Marketing,AP,670.91,USD,2025-08-10,2025-09-10,,,Pending Approval,Mark Chen,August ad spend
+INV-1013-AR,Global Corp,Tech Repair Hub,AR,150.00,GBP,2025-11-20,2025-12-20,,,In Progress,,Server component fix
+INV-1014-AR,Acme Inc,Innovate Solutions,AR,2500.00,USD,2025-04-01,2025-05-01,,2025-04-30,Paid/Closed,,Consulting retainer
+INV-1015-AP,Global Corp,Green Power Co,AP,250.00,USD,2025-03-05,2025-04-04,2025-03-20,,Overdue,Jane Doe,March water bill
+INV-1016-AR,Beta Systems,Regional Distributors,AR,600.00,EUR,2025-06-15,2025-07-15,,,Paid/Closed,,Q2 sales commission
+INV-1017-AP,Acme Inc,Synergy Office Supplies,AP,450.00,GBP,2025-09-20,2025-10-20,,,Overdue,Mark Chen,New desks purchase
+INV-1018-AP,Global Corp,Apex Marketing,AP,1200.00,USD,2025-01-01,2025-02-01,2025-01-15,2025-01-30,Paid/Closed,Jane Doe,SEO services
+INV-1019-AR,Beta Systems,Fast Courier,AR,225.00,USD,2025-10-01,2025-11-01,,2025-10-25,Paid/Closed,,Q4 shipping charges
+INV-1020-AR,Acme Inc,Innovate Solutions,AR,75.00,USD,2025-05-15,2025-06-15,,,In Progress,,Small service fee
